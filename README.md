@@ -2,3 +2,5 @@
 - Understood staging
 - Made clean commits
 - Git Day 1 Completed
+## Edited on GitHub
+-This change was made remotely.
