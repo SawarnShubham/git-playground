@@ -8,3 +8,6 @@
 ## Learning Git Day 5
 -We are learning Git Day 5 
 -Mastering Push And Pull
+## Day 6
+- Learned Pull Requests
+- Understood fork vs clone
