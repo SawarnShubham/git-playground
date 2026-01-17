@@ -1,2 +1,3 @@
-# Git Playground
-Practicing Git fundamentals
+## Learning Git Day 1
+- Understood staging
+- Made clean commits
